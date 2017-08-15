@@ -1,14 +1,8 @@
-# Static landing page with i18n/Sass/Slim
+# Cactionmars.xyz
 
-## Configure
+This project host the https://cactionmars.xyz project that is deployed using github pages.
 
-Create your surge account and start deploying in your first domain.
-
-Modify the `deploy.sh` script with correct surge domain.
-
-## Add custom domain
-
-To register your custom domain with GitHub you must put you domain in the `source/CNAME` file.
+The domain is configured in `sources/CNAME`.
 
 ## Setup
 
